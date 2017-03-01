@@ -2,7 +2,6 @@
 |STT|Họ và Tên|Môn|Sđt|Email|
 |---|---------|---|---|-----|
 |1|Thầy Nguyễn Trọng Phúc| Công nghệ java|                 0936298608|
-
 |2|Cô Hằng|                Đường lối CM của đảng CSVN|
 |3|Thầy Nguyễn Thanh Toàn| Hệ điều hành|                   0912175955|nttoan06@gmail.com|
 |4|Thầy Hoàng Văn Thông|   Cấu trúc dữ liệu và giải thuật| 0988113679|thonggtvt@gmail.com|
