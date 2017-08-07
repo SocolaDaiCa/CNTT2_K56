@@ -1,5 +1,5 @@
 # CNTT2_K56
-## Toàn bộ thông báo của CNTT2-k56 sẽ được gim ở đây<br/>
+## Toàn bộ thông báo của CNTT2-k56 sẽ được ghim ở đây<br/>
 - [Thông tin giáo viên](https://github.com/SocolaDaiCa/CNTT2_K56/blob/master/thong_tin_giao_vien.md)
 - [Thông tin sinh viên](https://docs.google.com/spreadsheets/d/1ETZHedr9ENXaKtlsOTefmRcKhwpGocy29QgqT3ZgcqM)
 - [Quỹ lớp](http://bit.ly/Quy_Lop)
