@@ -15,4 +15,5 @@
 |11 |Cô Nguyễn Thu Hường    | Lập trình trực quan              | 0966047698 | huongthunguyengtvt@gmail.com |
 |12 |Thầy Phạm Xuân Tích    | Phân tích và thiết kế thuật toán | 0973087356 |                              |
 |13 |Thầy Bùi Ngọc Dũng     | Lập trình mạng                   | 0913045130 | bndung@gmail.com             |
-|13 |Lại Mạnh Dũng          | Lập trình Web, Android           | 0964978112 | dunglm@gmail.com             |
+|13 |Thầy Lại Mạnh Dũng     | Lập trình Web, Android           | 0964978112 | dunglm@gmail.com             |
+|13 |Thầy Trần Văn Dũng     | An toàn và bảo mật thông tin     | 0904588833 | zungtv@yahoo.com             |
