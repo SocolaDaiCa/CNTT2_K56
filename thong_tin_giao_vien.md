@@ -17,3 +17,5 @@
 |13 |Thầy Bùi Ngọc Dũng     | Lập trình mạng                   | 0913045130 | bndung@gmail.com             |
 |13 |Thầy Lại Mạnh Dũng     | Lập trình Web, Android           | 0964978112 | dunglm@gmail.com             |
 |13 |Thầy Trần Văn Dũng     | An toàn và bảo mật thông tin     | 0904588833 | zungtv@yahoo.com             |
+|13 |Thầy Trần Văn Dũng     | An toàn và bảo mật thông tin     | 0904588833 | zungtv@yahoo.com             |
+|13 |Cô Nguyễn Kim Sao      |                                  |            | saonkoliver@gmail.com        |
