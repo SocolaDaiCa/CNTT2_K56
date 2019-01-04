@@ -19,3 +19,4 @@
 |13 |Thầy Trần Văn Dũng     | An toàn và bảo mật thông tin     | 0904588833 | zungtv@yahoo.com             |
 |13 |Thầy Trần Văn Dũng     | An toàn và bảo mật thông tin     | 0904588833 | zungtv@yahoo.com             |
 |13 |Cô Nguyễn Kim Sao      |                                  |            | saonkoliver@gmail.com        |
+|14 |PGS.TS. Nguyễn Văn Long | |                                            | nvlongdt@utc.edu.vn          |
